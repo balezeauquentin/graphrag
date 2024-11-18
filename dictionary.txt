@@ -66,8 +66,12 @@ numpy
 pypi
 nbformat
 semversioner
+<<<<<<< HEAD
 mkdocs
 typer
+=======
+milvus
+>>>>>>> pr-376
 
 # Library Methods
 iterrows
